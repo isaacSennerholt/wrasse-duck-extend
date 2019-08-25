@@ -1,8 +1,8 @@
 {
   "name": "wrasse-duck-extend",
   "version": "1.0.0",
-  "description": "Extend ducks",
-  "main": "src/index.js",
+  "description": "Extend ducks.",
+  "main": "lib/wrasseDuckExtend.js",
   "scripts": {
     "test": "./node_modules/.bin/jest",
     "test-unit-all": "npm run test -- unit"
